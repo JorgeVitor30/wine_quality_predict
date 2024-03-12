@@ -10,7 +10,7 @@ Este simples projeto tem como objetivo demonstrar o uso de diferentes modelos de
 
 ## Descrição do Projeto
 
-O script fornecido neste repositório realiza o treinamento e teste dos modelos mencionados acima para prever a qualidade do vinho com base em um conjunto de dados de qualidade de vinho vermelho. O desempenho de cada modelo é avaliado utilizando métricas de acurácia.
+O script fornecido neste repositório realiza o treinamento e teste dos modelos mencionados acima para prever a qualidade do vinho com base em um conjunto de dados de qualidade de vinho vermelho, no qual a qualidade do vinho pode variar de 1 a 10. O desempenho de cada modelo é avaliado utilizando métricas de acurácia.
 
 ## Conjunto de Dados
 
